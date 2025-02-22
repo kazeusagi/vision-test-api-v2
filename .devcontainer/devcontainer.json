@@ -1,0 +1,18 @@
+{
+  "name": "Vision Test API v2",
+  "dockerComposeFile": "./compose.yml",
+  "service": "app",
+  "workspaceFolder": "/home/user/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "GitHub.copilot",
+        "formulahendry.auto-rename-tag",
+        "oderwat.indent-rainbow",
+        "biomejs.biome",
+        "github.vscode-github-actions"
+      ]
+    }
+  }
+}
