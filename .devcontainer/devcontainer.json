@@ -8,7 +8,6 @@
       "extensions": [
         "ms-azuretools.vscode-docker",
         "GitHub.copilot",
-        "formulahendry.auto-rename-tag",
         "oderwat.indent-rainbow",
         "biomejs.biome",
         "github.vscode-github-actions"
